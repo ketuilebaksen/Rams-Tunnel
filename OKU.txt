@@ -1,0 +1,91 @@
+RAMS TUNNEL — KANAL KURULUMU
+=============================
+
+Takim: Los Angeles Rams | Stadyum: SoFi Stadium | Renk: Rams sarisi + mavi
+Kadro 2026 sezonuna gore: Stafford, Nacua, Davante Adams, Kyren Williams,
+Myles Garrett, Kobie Turner, koc Sean McVay.
+
+Bu paket Bengals'in son halinden uretildi — yani ElevenLabs adimi YOK.
+Kuyruk sadece SES DOSYASI kabul ediyor, tipki diger kanallarda oldugu gibi.
+Yanlislikla birakilan bir .txt sessizce yok sayilir, render'i kirmaz.
+
+
+ADIM 1 — YENI DEPO AC
+---------------------
+github.com -> sag ustte + -> New repository
+  Repository name : rams-tunnel
+  Public sec        (Private'ta depolama doluyor)
+  Add a README      -> ISARETLEME
+  Create repository
+
+
+ADIM 2 — BILGISAYARINA INDIR
+----------------------------
+Acilan sayfada  Code -> Open with GitHub Desktop
+
+
+ADIM 3 — DOSYALARI KOPYALA
+--------------------------
+Bu zip'in icindekilerin hepsini (OKU.txt haric) o klasore KOPYALA.
+Ctrl+A -> Ctrl+C -> klasorde Ctrl+V.   Ctrl+X KULLANMA.
+
+Dogru kopyaladiysan klasorde sunlar olur:
+  .git  .github  assets  content  scripts  .gitignore  channel.json
+
+README ya da .gitattributes goruyorsan yanlis kaynaktan kopyalamissin —
+Bengals'ta bu kaza olmustu, dikkat.
+
+
+ADIM 4 — GONDER
+---------------
+GitHub Desktop -> Current repository: rams-tunnel oldugundan EMIN OL
+Summary: "ilk kurulum" -> Commit to main -> Push origin
+
+
+ADIM 5 — IZIN (sart)
+--------------------
+Settings -> Actions -> General -> en altta "Workflow permissions"
+"Read and write permissions" sec -> Save
+
+Bu olmadan video render edilir ama Release'e yuklenemez.
+
+API anahtarina GEREK YOK — sesi kendi programin uretiyor.
+
+
+ADIM 6 — STOK VIDEOLARI YUKLE
+-----------------------------
+Releases -> Create a new release
+  Tag    : broll     (kutuya yaz, "Create new tag" cikacak, tikla)
+  Title  : broll
+  Dosya  : Rams stok videolarini surukle
+  ---> "Publish release"   ("Save draft" e BASMA)
+
+Istege bagli ayni yontemle:
+  music     arka plan muzikleri
+  ambient   stadyum ugultusu
+  photos    oyuncu / takim fotograflari
+
+
+ADIM 7 — ILK VIDEO
+------------------
+Ses otomasyonunda Rams'i kanal listesine ekle (diger kanallar gibi:
+depo adi rams-tunnel). Program metni seslendirip mp3'u content/queue
+icine yazacak ve kendi push'unu atacak.
+
+Elle yapmak istersen: mp3'u content/queue icine at, dosya adi videonun
+basligi olsun, commit + push.
+
+Render kaydinda sunu goreceksin:
+  [assemble] b-roll: 24 clips (offset 3)
+  [assemble] kurgu karisimi: 34 stok video / 0 fotograf / ... (stok %100)
+
+"b-roll: 0 clips" yaziyorsa broll release'i taslakta kalmis demektir.
+
+
+NOT — KADRO
+-----------
+Kadroyu NFL.com'un resmi Rams sayfasindan aldim. Listede Aaron Donald,
+Myles Garrett ve Trent McDuffie de var; benim bildigimden farkli ama
+resmi kaynak oyle diyor. Yanlis oldugunu dusundugun isim varsa soyle,
+channel.json'daki "roster" listesinden cikarayim — o liste sadece
+Wikimedia'dan oyuncu fotografi cekmek icin kullaniliyor.
