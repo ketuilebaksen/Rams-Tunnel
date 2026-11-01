@@ -1,0 +1,389 @@
+Cowboys Nation, let me read you two sentences.
+
+The first one is the title of today’s video. Big blow. Sad news in Dallas. He is out of the season.
+
+The second one is from inside the video, at the three minute forty-six mark, and it is the video answering its own question about what the big news is.
+
+There has not been a dramatic announcement that one of these players is out.
+
+That’s not me paraphrasing. That is the narrator, in the body of the video, telling you in plain words that the thing in the title did not happen.
+
+So before anything else, the thing I am obliged to say on a day like today. Nobody on this roster has been ruled out for the season. Nobody has been ruled out for Sunday. There is no season-ending injury in this video, I’m not going to invent one, and if you clicked expecting to find out whose year is over, the honest answer is that nobody’s is.
+
+What is actually in here is three players who were limited at Thursday’s practice, a head coach who didn’t seem worried about it, and a reporter accurately describing both of those facts.
+
+And underneath that title is the most carefully worded body I have been sent in two months. I’m going to spend a good chunk of today praising it, which should tell you how strange this one is.
+
+Welcome back to Dallas Cowboys Team, where we bring you every Dallas update, every single day. Subscribe and turn on notifications.
+
+Let’s get into it.
+
+Here’s the new tell, and it’s number 31, and it’s hiding in a word so small you’d skip right over it.
+
+He is out of the season.
+
+He.
+
+Who?
+
+The title contains three exclamation marks and zero names.
+
+So here’s tell 31.
+
+The headline’s subject is a pronoun with no antecedent.
+
+And I want to walk you through why that’s not sloppiness. It’s engineering.
+
+A title that says a specific player is out for the season can be wrong by tonight. Somebody checks, the player practices, and the title is a lie with a name attached to it. There’s a cost.
+
+A title that says he is out of the season cannot be wrong, because it never said who.
+
+And it gets worse, because the pronoun doesn’t just avoid being checkable. It fits backwards. If anybody on this roster goes down in the next three weeks, that title retroactively describes him. It is pre-written for an event that hasn’t happened yet, attached to no one, and ready to be correct about whoever it ends up being about.
+
+So here’s the diagnostic, and it’s one question.
+
+Can you name the person the title is about without watching the video?
+
+If you can’t, the title is not a claim. It’s a lottery ticket.
+
+And this is a relative of tell 23, which was the transaction-shaped noun with no object. There I asked you whether a word had truth conditions. A decision, a move, a shift. Words shaped like events, containing no event. This is the same trick applied to a person instead of an action. He is a person-shaped word containing no person.
+
+Which means the whole title is now built out of placeholders. Big blow, with nothing specified as having been blown. Sad news, with no news. He, with no referent. Out of the season, which is the only part with any content, and it’s the part the video explicitly denies.
+
+Alright. Now I want to give you a tool, because I’ve got a new one today and it’s about structure rather than language.
+
+Here is the architecture of this video, by the clock.
+
+At eight seconds in, before anything has been said, you get this. But before we reveal the big news, make sure to subscribe to the channel.
+
+So the news is promised at eight seconds and withheld.
+
+At three minutes twenty-five, you get this, and I’m going to quote it rather than perform it. Pause here just for a second. If you want the algorithm to keep recommending the latest Dallas Cowboys news to you, it’s super important that you leave a like.
+
+At three minutes thirty-nine, immediately after, you get: now let us continue with the big reveal. So what is the big reveal?
+
+And at three minutes forty-six, the reveal arrives. There has not been a dramatic announcement that one of these players is out.
+
+So the promised news is announced at second eight, held for three and a half minutes, gated behind a request, and then turns out to be an absence.
+
+Here’s the tool. I’m calling it follow the ask.
+
+Find the moment a video asks you for something. Then look at what’s on the other side of it.
+
+Because the position of the ask tells you what the maker thinks he’s selling. And the rule, stated plainly:
+
+News goes first. A hostage goes last.
+
+If somebody has information, he leads with it, because information is the thing he’s proud of. If somebody’s main asset is your continued attention, he has to put something between you and the payoff, and the only thing available to put there is the payoff itself.
+
+And now the honest version, because I have an outro too and I’m not going to pretend otherwise.
+
+I ask you to subscribe. I ask at the start and I ask at the end. So the distinction cannot be whether a channel asks, because every channel asks.
+
+The distinction is where the ask sits relative to the information.
+
+An ask at the end costs you nothing, because you’ve already got what you came for and you can ignore me. An ask at the beginning costs you nothing, because you haven’t started. An ask placed between the promise and the payoff is a toll gate, and it only works if the payoff is being deliberately withheld.
+
+So the test isn’t counting the asks. It’s checking whether anything was held back in order to make one.
+
+And in this video, three and a half minutes of a seven-minute runtime sat between the promise and a reveal that turned out to be a negation.
+
+Now. Here’s the part that makes today genuinely odd, and I need to be emphatic about it, because if I only ever say harsh things then the harsh things stop meaning anything.
+
+Beneath that title, this is the most epistemically disciplined body anybody has sent me in two months.
+
+I’m not being generous. Listen to these, all from the same video.
+
+It is not an official confirmation that all three will play.
+
+A coach’s calm reaction should not be treated as a guarantee.
+
+There is no further information about the severity of the injuries, how they happened, or how the players will participate in the days ahead.
+
+So the key point is to stick with what is known.
+
+There is also no need to read more into the word limited than the source supports.
+
+It tells us that they were not full participants on Thursday. It does not tell us whether they will participate more later, how they felt after practice, or what their game day designations will be.
+
+Calling it a turning point before it happens would go beyond what we know.
+
+Fans should watch for further updates without assuming either that the players will definitely be active or that they will definitely sit.
+
+Eight sentences. Every one of them is a statement about the limits of the available evidence, and every one of them is correct.
+
+That is better than most of what I’m sent and it is considerably better than most of what gets said on television. The sentence it does not tell us whether they will participate more later, how they felt after practice, or what their game day designations will be is a list of exactly the three things a viewer would want and exactly the three things the source cannot supply. Somebody thought about that.
+
+Run yesterday’s tool on it. The inversion test. Take a claim, negate it, and see whether the opposite is a thing people actually say.
+
+Invert a coach’s calm reaction should not be treated as a guarantee, and you get a coach’s calm reaction means they’ll play. That is said constantly. That’s half of every injury segment in football media. Which means the original sentence carries information, because its opposite is a live position.
+
+Invert there is no need to read more into the word limited than the source supports, and you get limited means he’s hurt worse than they’re saying. Also said constantly, and also often wrong.
+
+So the body passes, repeatedly, and it passes on exactly the axis that matters most for injury coverage, which is the axis where being wrong frightens people about their own team for no reason.
+
+And now the thing I’ve been building toward for a week, because today is the day it becomes undeniable.
+
+Yesterday I told you that quality isn’t a property of a channel, it’s a property of a sentence, and that you evaluate line by line or you don’t evaluate at all. Today’s video is the proof, because the gap between its title and its body is the widest I have ever measured.
+
+But I can go further than that now, and I think this is the real thing underneath all thirty-one tells.
+
+The title and the body are not addressed to the same people.
+
+The body is written for people who will watch it. Those people can check things. They’ll notice if a claim doesn’t hold up for seven minutes, so the body has to be defensible.
+
+The title is written for people who will not watch it. It appears in a feed, next to a thumbnail, and it does its entire job in the quarter second before a scroll. It is never checked by the audience it was built for, because that audience never arrives.
+
+So the two halves of a video face in opposite directions, and they’re optimised against different tests. The body is optimised for being survivable. The title is optimised for being clicked. And nothing in the system ever forces those two to agree.
+
+Which reframes the whole series. These aren’t thirty-one kinds of dishonesty. They’re thirty-one shapes the same incentive takes when it hits a thumbnail, and the clearest evidence for that is a video where the careful part and the dishonest part sit in the same upload, uploaded by the same person, on the same day.
+
+And it’s why I keep saying this. The inflated title is not a lie somebody tells. It’s a toll somebody pays.
+
+With one correction I’ll make today, because this particular title crosses a line the others didn’t.
+
+A false headline about a trade costs you a click. A false headline that says a player’s season is over spreads as a screenshot, and a screenshot does not carry the body with it. The careful part of this video never travels. The title always does.
+
+So the damage from a title like this one happens in the feed, not in the video, and the eight careful sentences I just praised are addressed to the only people who were never going to be misled.
+
+Alright. The actual football, which is modest but real.
+
+Three players were limited at Thursday’s practice. George Pickens with a shoulder. Caleb Downs with an ankle. Quinnen Williams with a hamstring.
+
+The source is Todd Archer of ESPN, named, which puts this at the second tier of the five-tier hierarchy I built last week. A named reporter at a national outlet, reporting a practice participation report and a coach’s demeanour. That’s good sourcing for what it claims.
+
+And Brian Schottenheimer did not appear concerned about whether the three would be available.
+
+Now let me tell you what limited actually means, because it’s the single most misread word in football coverage.
+
+The league requires teams to file a participation report on practice days. There are three categories, and only three. Did not participate. Limited. Full.
+
+Limited means the player did some portion of practice and not all of it. That’s the entire content of the word. It does not describe an injury, a severity, a prognosis or a probability.
+
+And here’s why it’s so slippery. Limited covers two completely different situations that are indistinguishable from the outside.
+
+A player can be limited because he’s genuinely compromised and the team is protecting him from contact. Or a player can be limited because he’s fine, it’s Thursday, and there is no reason on earth to give a veteran a full workload three days before a game when his hamstring is a little tight.
+
+Both of those produce the identical line on the identical form. So limited is a participation label, not a medical one, and the video is dead right to say there’s no need to read more into it than the source supports.
+
+Which brings me to the four gates, and I want to put these three men on the ladder properly, because I built this framework weeks ago and today is a clean application.
+
+Gate one, is he closer. Gate two, is he cleared. Gate three, is he available. Gate four, is he effective.
+
+Limited on Thursday is gate one. It is the first and weakest of the four, and it tells you about trajectory rather than status. And cleared is a binary while ready is not, which is why a man can pass gate two and fail gate four in the same afternoon.
+
+And there’s a timing point the video doesn’t make, so let me add it.
+
+The practice week has a gradient. Wednesday is the first day of real work. Thursday is the heaviest day. Friday is lighter, and critically, Friday is when the game status designations get attached. Out. Doubtful. Questionable.
+
+So a Thursday report with no Friday follow-up is the least informative point in the sequence. It’s taken on the heaviest practice day of the week, before anybody has to commit to a label.
+
+And notice the asymmetry in what I’ve been handed over two days. Yesterday’s source gave me Kenny Clark as questionable on Friday, which is a designation. Today’s source gives me three men as limited on Thursday, which is a participation note. Those are different kinds of information from different days, and the Friday one is worth more.
+
+Now the part that actually matters for Sunday, and it’s a convergence of two sources that neither of them noticed.
+
+Yesterday I was told that Christian Parker leans on three men inside. Quinnen Williams, Kenny Clark, and the interior lineman whose name nobody can spell.
+
+Yesterday’s video told me Kenny Clark was questionable Friday with a back injury.
+
+Today’s video tells me Quinnen Williams was limited Thursday with a hamstring.
+
+That is two of the three interior anchors, from two different sources, on two different days, and nobody has put them in the same sentence until now.
+
+And remember what I built yesterday out of that interior. The best piece of coaching I’d read in weeks. If the tackle holds his ground and gets a hand free, the linebacker knows which gap is his. If the tackle gets displaced sideways, the linebacker has two gaps and a back who gets to choose.
+
+Interior defensive line play is measured in somebody else’s workload.
+
+So if Williams and Clark are both compromised, the man whose name I can’t spell doesn’t just inherit snaps. He inherits the job of keeping two linebackers down to one decision each, against an offense that wants short, quick completions and is perfectly happy to run at a defense that’s guessing.
+
+That’s the real Sunday consequence, and it’s a long way from he is out of the season.
+
+Now, the hamstring, because I have a running count and it just moved again.
+
+Quinnen Williams makes six hamstring injuries I’ve been told about on this defense this season. DeMarvion Overshown’s, which cost him the green dot for two games. The cornerback I still can’t spell, who missed four games and worked back. The safety on injured reserve since the end of September. And now an interior defensive lineman.
+
+Six.
+
+And I’m going to do the same thing I did when the count was three and when it was five, which is refuse to conclude.
+
+Because I still don’t have the denominator. Six hamstrings sounds like a pattern and it might be a league-average Tuesday. Soft tissue injuries are common, they cluster for boring reasons like turf and travel and age, and the number that would settle this is the league average number of hamstring injuries per team in seven weeks. I don’t have it. Nobody has sent it. And six is not a lot of anything if the average is five.
+
+What I’ll say instead is what I said before. I’ve named exactly what would settle it, and until somebody gives me that number, six is a count and not a finding.
+
+But I’ll add one mechanism note, because it connects to yesterday in a way I like.
+
+Hamstrings fail on reaction, not on running. That’s been on this list for a month. A hamstring tears when a player has to change what he’s doing faster than he planned to, which is why they happen on a redirect and almost never during a straight sprint.
+
+Now put that next to yesterday’s lesson about interior line play. I told you an interior lineman’s engagement is decided in the first step, that there’s no time to think, and that a tenth of a second spent confirming a read is a tenth of a second during which somebody heavier than you already has his hands in your chest.
+
+The first step is a reaction. It is the single most explosive, least planned movement in football, performed with another human being two feet away.
+
+So a hamstring at the interior line attacks precisely the thing that decides the snap. Which doesn’t tell me how serious it is, and I’m not pretending it does. But it tells you why limited on Thursday with a hamstring means something slightly different for a defensive tackle than it would for a safety.
+
+Now a resolution, and it’s a good one, and I’ve waited two weeks for it.
+
+For two weeks I’ve carried a name on my flagged list that I could not resolve. I had him as the rookie defensive back rendered as Caleb D S. I knew a lot about him. A slot corner who also played in the box. Ninety-two snaps at free safety. Gave up ninety-four yards on seven catches against Green Bay. And most recently limited with an ankle injury.
+
+I never guessed. I said D S every time, out loud, for two weeks, because the rule is that I don’t invent names.
+
+And today’s video mangles the same name twice, in two different ways, in the same seven minutes.
+
+In one place it says Calb D S. In another it says Downs has an ankle injury. And later it lists the three men as Pickens, Downs and Williams.
+
+Caleb Downs.
+
+The ankle matches what I already had. Two corruptions of the same name, failing in two different directions, and together they contain the answer.
+
+So I’m taking that off the flagged list and calling it resolved, and I’m stating the inference out loud rather than pretending to certainty. I’m reading Caleb D S plus Downs as Caleb Downs. If that’s wrong, the mistake is mine and I’ll correct it.
+
+And there’s a principle in there that I want to give you, because it’s genuinely useful and it isn’t about football.
+
+Collate the corruptions.
+
+Two bad transcriptions of the same name are worth more than one, because they fail differently. A machine that drops the end of a word and a machine that drops the start of a word have, between them, preserved the whole word. The error is in the overlap, not in the signal.
+
+Which is why I keep the mangled versions in my notes instead of throwing them away, and why I read them out on camera even though it sounds ridiculous. A corruption is data about the thing it corrupted.
+
+And it’s why the no-guessing rule pays. If I had guessed two weeks ago, I’d have written a name into my notes and stopped looking. Because I kept an unresolved label, the answer could still arrive. An unresolved question stays open. A wrong answer closes.
+
+Now George Pickens and the shoulder, because there’s a contract dimension here that nobody is mentioning.
+
+Pickens is playing on a franchise tag worth twenty-seven point three million dollars. One year. Guaranteed for this season and nothing beyond it.
+
+And I made the argument earlier this week that this makes him simultaneously the most expensive and the least secure man on the roster. Maximum current cost, zero future guarantee.
+
+Now add an injury, and notice how the incentives land.
+
+An injury on a long contract is a problem for the team. An injury in a tag year is a problem for the player.
+
+A man with four years remaining who misses three weeks gets paid either way. A man on a one-year deal who misses three weeks has lost three weeks of the only sample anybody will use to price him in February, and he’s negotiating against the whole league with a shorter résumé than he expected to have.
+
+Which means Pickens has a reason to play through something that a man with security would sit out. And that’s not a criticism of him or of Dallas. It’s a structural fact about what a one-year contract does to a player’s risk calculus, and it’s the kind of thing worth knowing when you see a man listed as limited and then active.
+
+Alright. The Schottenheimer quote, because there’s real content in it and there’s also something in the vocabulary that I think is important.
+
+Via Schuyler Dixon of the Associated Press, Schottenheimer said the Cowboys need to be consistent in their execution and performance, and that they have lacked that at times. He also said Arizona presents a lot of challenges, while emphasising that the bigger issue is Dallas’s own inconsistency.
+
+Now run yesterday’s refined tool on it, because this is exactly what I built the refinement for.
+
+Yesterday I told you the inversion test applies to the attribution, not the adverb. Don’t invert the quality word. Invert the subject. Ask who else could have been named, and whether naming them would have been easier.
+
+So. We need to be consistent in our execution. Inverting the adverb gives you we should be inconsistent, which nobody says, and by the letter of the rule that’s an empty sentence.
+
+But invert the subject and something appears. He could have named Arizona. He could have named the injuries, and he had three of them on his Thursday report to choose from. He could have named the schedule. Instead he explicitly ranked his own team’s inconsistency above the opponent’s quality.
+
+That’s a real statement. It survives the test, and it survives it on the comparison rather than on the adjective.
+
+And now the part I’d be soft if I skipped.
+
+Forty-eight hours ago, Christian Parker said this. I got to call plays better.
+
+Today, Brian Schottenheimer said this. We need to be consistent in our execution and performance.
+
+Those are not the same kind of sentence, and the difference is in two words.
+
+I and we. And execution.
+
+Here’s the principle, and I think it’s the most useful thing I’ll give you today.
+
+Some words point down the organisation chart and some words point up it.
+
+Execution points down. So do effort, finishing, discipline, focus and communication. Those are things players do. When a coach says the problem is execution, he has located the problem below himself, whatever pronoun he wraps it in.
+
+Play calling points up. So do the install, the plan, usage, personnel decisions and the opening script. Those are things coaches do. When a coach says the problem is his play calling, he has located the problem at or above his own chair.
+
+And a coach’s vocabulary tells you which direction he’s assigning, regardless of how humble the sentence sounds.
+
+Now the fair version, because I owe Schottenheimer a proper one.
+
+First, we from a head coach does include him. He is part of the team, inconsistency is a team-level property, and it would be strange for a head coach to answer a question about week-to-week consistency by discussing his own play sheet.
+
+Second, these are answers to different questions. A coordinator asked about third down is being asked about his own work. A head coach asked about the season is being asked about an organisation. The scope of the question partly determines the scope of the answer.
+
+Third, and this matters most, he named his own team over the opponent when the opponent was available and would have been the easier answer. Plenty of coaches spend a Friday press conference praising the team they’re about to play, precisely because it’s a way of explaining a loss in advance.
+
+So I’m not accusing him of dodging. What I’m telling you is that his sentence and Parker’s sentence assign in different directions, and if you want to know who thinks a problem is theirs, listen for whether the noun is a thing players do or a thing coaches do.
+
+And I’d note one more thing in his favour. Last week I learned that Schottenheimer calls the offensive plays himself. So when he says execution, he is talking about a unit whose play calls are his. Which makes the word choice more interesting, not less, and makes me want to hear the question he was actually asked before I draw any further conclusion.
+
+Which is the half-quote lesson, and I’m applying it to myself before anybody has to.
+
+Now, back to five hundred, because the video frames the whole week around it and it deserves a bit of precision.
+
+Dallas is three and four. A win over Arizona puts Dallas at four and four, which is what back to five hundred means, and the video is right that it would be a meaningful result and right that it would not settle anything.
+
+And I want to credit the restraint in how it’s put, because this is a genuinely hard thing to get right. Calling it a turning point before it happens would go beyond what we know. And, one win would help, but the team needs to show it can follow a good performance with another one.
+
+That’s correct, and I can give you the arithmetic reason it’s correct, because I learned it the hard way two weeks ago.
+
+I presented this team’s point differential as a measurement. Minus eight across six games. Then one football game moved it seventeen points, to plus nine, and I had to come back on camera and say that what I’d called a measurement was a number with almost no stability behind it.
+
+Seven games is not a lot of games. A single result moves every season-level number you own. Which is exactly why one win against a two-and-five opponent cannot be a turning point, and why the video’s version, that the possibility of a winning stretch exists but depends on producing results rather than hoping for them, is the right amount of confidence.
+
+So what would four and four actually mean?
+
+It would mean Dallas is even, with the easiest remaining schedule in its division, a game and a half behind a Giants team on a bye, and nine days from a trade deadline with three decisions landing on it at once.
+
+That’s a real position. It isn’t a feeling. And I’ll remind you that two weeks ago I dismissed somebody for saying this division was within reach, and I was wrong then and I’ve said so twice since.
+
+Names, and today produced something I’ve never seen before.
+
+Brian Schottenheimer arrives five different ways in eight minutes. Brian Scottenheimer. Then Scottenheimer. Then, four separate times, Scott and Hamer. Then just Scott.
+
+Scott and Hamer.
+
+The machine didn’t misspell his name. It split it into two people and joined them with a conjunction. There are now, according to this transcript, two men named Scott and Hamer who share a press conference and an opinion about consistency. That is a new category of corruption and I’d like it entered into the record.
+
+Quinnen Williams arrives as Quinnon Williams, which is the sixth distinct spelling of that man’s name this week, and I’ve stopped being surprised.
+
+George Pickens as Pickkins and then Pickens. Schuyler Dixon of the Associated Press as Shyler Dixon. Caleb Downs as Calb D S and then Downs, which, as discussed, is how I finally got him. And YouTube rendered as Y U T B, which I mention only because it’s the first time a machine has mangled the name of the platform it was transcribing on.
+
+Todd Archer of ESPN arrives correctly, and so does Associated Press, and credit where it’s due.
+
+So the flagged list drops to ten.
+
+The safety rendered as P J Lockach, whose activation deadline is the thirteenth. The safety on injured reserve rendered as Jaylen Thompson. The cornerback rendered as Kobe Durant, who is playing again. The interior lineman rendered three ways as Otito Abania, who is now the best-documented man on the list and who may be about to be very important. The edge rusher rendered as Malachi Lawrence. The safety rendered as Alicia Clark. The rookie linebacker rendered as Jon Barum, who may or may not be the same man as the one rendered as Justin Baron, which is still the open question from yesterday. The Eagles defender rendered as Jonathan Greener. The ESPN voice rendered as Jimmy Balor. And the Arizona running back rendered as Jeremiah Love.
+
+Ten flagged. One resolved today. Nothing guessed, in two weeks, and the one that resolved is the one I refused to guess at.
+
+So here’s where we are.
+
+Dallas is three and four, second in the NFC East behind a New York Giants team at four, two and one that is on a bye. Two games back in the loss column, which is a game and a half in the standings.
+
+Arizona comes to town at two and five. Indianapolis follows at two and five and reportedly selling. A win puts Dallas at four and four.
+
+George Pickens, Caleb Downs and Quinnen Williams were limited on Thursday with a shoulder, an ankle and a hamstring. Kenny Clark was questionable on Friday with a back. Nobody has been ruled out of anything.
+
+Five of seven opponents have scored a touchdown on their opening possession. Six edge rushers, eight sacks in seven games. Three hundred and eighty-two and a half yards allowed per game, third worst in football. One hundred and eighty points allowed, of which I can now account for a hundred and nine.
+
+The deadline is Tuesday the tenth of November at four o’clock Eastern. The two injured-reserve activation deadlines land on the twelfth and the thirteenth, two and three days after the only roster move that returns value expires.
+
+And my watch list for Sunday stands at four, with one addition.
+
+One. Arizona’s opening possession, because a coordinator told us he changed the preparation for exactly that drive, and it’s the loudest and least-informed drive of the afternoon with a signal-caller who’s held the job a week.
+
+Two. Whether a four-man rush produces a single pressure that changes a throw, and whether anybody is waiting where the quarterback goes when he’s flushed.
+
+Three. Whether Dallas throws the football out of heavy personnel.
+
+Four. When Trey McBride catches it short of the sticks on third down, whether the nearest defender wraps him up or arrives and lets him turn.
+
+And the addition. Watch the interior. If Quinnen Williams and Kenny Clark are both limited or absent, watch how many gaps Dallas’s linebackers have to account for, because that’s the number that tells you what the man I can’t spell is actually worth.
+
+What I want you to take out of here is the pronoun, because it’s the smallest thing I’ve ever asked you to notice and it’s the one that’ll save you the most grief.
+
+He is out of the season.
+
+He who? Nobody. There is no he. And a title that won’t name the man it’s about has arranged, in advance, never to be wrong about him.
+
+So the question to ask of any headline, before you feel anything about it, is whether it names a person, a number, or a date. Those are the three things that can be checked. A headline with none of them has not told you about an event. It has described a mood and attached an exclamation mark.
+
+And the video underneath it did the honest thing eight separate times, and almost nobody will ever know that, because the careful part doesn’t travel and the title does.
+
+So tell me in the comments. Is the man rendered as Jon Barum the same man as the one rendered as Justin Baron? That’s still open from yesterday. And does anybody have the league average for hamstring injuries over seven weeks, because I’m sitting on a count of six and I’ve refused to call it a pattern three separate times now and I’d quite like to stop.
+
+Drop it below, because I read every single one, and the corrections you send me end up on camera.
+
+Like it, subscribe, ring the bell, and notice that I’m asking you after I’ve told you everything I know.
+
+This has been Dallas Cowboys Team. Now go take care of business.
